@@ -1,0 +1,20 @@
+[
+    {
+        "word": "test",
+        "charNum": 4,
+        "conNum": 3,
+        "vowNum": 1
+    },
+    {
+        "word": "backend",
+        "charNum": 7,
+        "conNum": 5,
+        "vowNum": 2
+    },
+    {
+        "word": "marko",
+        "charNum": 5,
+        "conNum": 3,
+        "vowNum": 2
+    }
+]
